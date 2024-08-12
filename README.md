@@ -1,11 +1,11 @@
-# ecommerce
+# Ecommerce
 E-Commerce is a Robust web application built using cutting-edge technologies to provide a seamless user experience ,the application asopts an N-tier architecture .
-# Technologies 
+# Technologies :
 ## Asp.Net core 8
 ## Entity Framework core
 ## MS-Sql Server
 ## JWT Authentication
-# Architecture:
+# Architecture :
 E-Commerce follows a robust N-tier architecture which includes:
 - Core Layer:implements core business logic 
 - Repository Layer: It is the interfce between the database and the core layer
