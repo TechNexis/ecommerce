@@ -7,7 +7,7 @@ MS-Sql Server
 JWT Authentication
 # Architecture
 E-Commerce follows a robust N-tier architecture which includes:
-Core LayerL:implements core business logic 
-Repository Layer: It is the interfce between the database and the core layer
-Service Layer: Contains the business logic
-Api Layer:Contains the final endpoints for the project 
+- Core LayerL:implements core business logic 
+- Repository Layer: It is the interfce between the database and the core layer
+- Service Layer: Contains the business logic
+- Api Layer:Contains the final endpoints for the project 
